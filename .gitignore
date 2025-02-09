@@ -1,0 +1,45 @@
+# 环境变量
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 测试
+test_*.py
+*_test.py
+tests/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 日志
+*.log
+logs/
+chat_api.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store 
